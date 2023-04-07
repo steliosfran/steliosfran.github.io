@@ -2,7 +2,6 @@
 layout: page
 title: 
 header_title: About
-modified: 2023-04-06T20:53:07.573882-04:00
 comments: false
 image:
   feature: feature.jpg
