@@ -11,7 +11,7 @@ image:
 
 Stelios Frantzeskakis is a Staff Engineer at [Perry Street Software](https://www.perrystreet.com/), publisher of [SCRUFF](https://www.scruff.com/) and [Jack’d](https://www.jackd.com/), with more than 30M members worldwide. He has been professionally developing mobile apps for more than 10 years.
 <br/><br/>
-His passions and expertise include, but are not limited to, the following topics:
+His passions and expertise include, but are not limited to, the following areas:
 
 - Clean Architecture
 - MVVM & MVI architecture
@@ -21,4 +21,4 @@ His passions and expertise include, but are not limited to, the following topics
 - Extreme Programming
 - Functional programming
 - Pair programming
-- CI/CD automations
+- CI/CD
