@@ -67,7 +67,7 @@ posts:
     date: 2021-05-27
 
   - title: Debugging Android process death
-    subtitle: Learn this now or spend 🤷‍♂️ in Crashlytics later
+    subtitle: Learn this now or spend hours in Crashlytics later
     url: https://medium.com/perry-street-software-engineering/debugging-android-process-death-c1c32f72be81
     publisher: Perry Street Software Engineering
     publisher_url: https://medium.com/perry-street-software-engineering
@@ -110,6 +110,7 @@ posts:
     subtitle: Android process death — what every mobile dev ought to know
     url: https://medium.com/swlh/android-process-death-66f56029e405
     publisher: The Startup
+    publisher_url: https://medium.com/swlh
     coauthor: Eric Silverberg
     date: 2021-02-19
 ---
