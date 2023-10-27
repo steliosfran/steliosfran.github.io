@@ -56,6 +56,9 @@
           {% if talk.conference %}
             <a href="{{ talk.conference_url }}" title="{{ talk.conference }}" target="_blank"><b>{{ talk.conference }}</b></a>
           {% endif %}
+          {% if talk.slide_deck_url %}
+            ∙ <a href="../assets/talks/{{ talk.slide_deck_url }}" type="application/pdf" target="_blank"><b>Slide deck</b></a>
+          {% endif %}
         </p>
       </article>
     {% endfor %}

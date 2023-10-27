@@ -14,5 +14,6 @@ talks:
     url: https://london.droidcon.com/stelios-frantzeskakis/
     conference: droidcon London 2023
     conference_url: https://www.droidcon.com/events/droidcon-london-2023/
+    slide_deck_url: put-your-tests-on-a-diet.pdf
     date: 2023-10-27
 ---
