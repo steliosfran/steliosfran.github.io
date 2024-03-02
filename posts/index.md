@@ -4,9 +4,7 @@ title: Posts
 header_title: Posts
 comments: false
 image:
-  feature: feature.jpg
-  credit: Ultima Gaina
-  creditlink: https://www.istockphoto.com/photo/brooklyn-bridge-panorama-at-sunset-gm489208410-74590085
+  feature: featured.jpg
 
 posts:
   - title: "The Unit Testing Diet Part II: DRY code with Test Factories"

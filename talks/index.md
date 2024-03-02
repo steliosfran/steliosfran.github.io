@@ -4,9 +4,7 @@ title: Talks
 header_title: Talks
 comments: false
 image:
-  feature: feature.jpg
-  credit: Ultima Gaina
-  creditlink: https://www.istockphoto.com/photo/brooklyn-bridge-panorama-at-sunset-gm489208410-74590085
+  feature: featured.jpg
 
 talks:
   - title: "Put Your Tests on a Diet: Testing the Behavior and Not the Implementation"
