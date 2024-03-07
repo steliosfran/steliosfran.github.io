@@ -7,6 +7,13 @@ image:
   feature: featured.jpg
 
 posts:
+  - title: "Stop Debating in Code Reviews. Start Enforcing with Lint Rules."
+    subtitle: How to enforce architecture and best practices as unit tests with Konsist
+    url: https://proandroiddev.com/stop-debating-in-code-reviews-start-enforcing-with-lint-rules-6632c907ea94
+    publisher: ProAndroidDev
+    publisher_url: https://proandroiddev.com/
+    date: 2024-03-06
+
   - title: "The Unit Testing Diet Part II: DRY code with Test Factories"
     subtitle: Setting up test state in one line
     url: https://medium.com/perry-street-software-engineering/the-unit-testing-diet-part-ii-408cd5ffb822
