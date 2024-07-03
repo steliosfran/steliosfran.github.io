@@ -9,9 +9,11 @@ image:
 talks:
   - title: "Stop Debating in Code Reviews. Start Enforcing with Lint Rules."
     description: As engineers, we're not designed to remember every detail in the architecture of our projects. But fortunately, we can write the lint rules that will do that for us.
-    url: https://sf.droidcon.com/stelios-frantzeskakis/
+    url: https://berlin.droidcon.com/speaker/stelios-frantzeskakis/
     conference: droidcon San Francisco 2024
-    conference_url: https://www.droidcon.com/events/droidcon-san-francisco-2024/
+    conference_2: droidcon Berlin 2024
+    conference_url: https://sf.droidcon.com/stelios-frantzeskakis/
+    conference_url_2: https://berlin.droidcon.com/speaker/stelios-frantzeskakis/
     slide_deck_url: enforce-with-lint-rules.pdf
     date: 2024-06-06
 
