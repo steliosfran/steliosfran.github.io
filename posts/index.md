@@ -7,6 +7,13 @@ image:
   feature: featured.jpg
 
 posts:
+  - title: "Goodbye Code Reviews, Hello Harmonize: Enforce Your Architecture in Swift"
+    subtitle: Enforce architecture and best practices in your iOS apps as unit tests, with a modern, open-source linter for Swift
+    url: https://itnext.io/goodbye-code-reviews-hello-harmonize-0a49e2872b5a
+    publisher: ITNEXT
+    publisher_url: https://itnext.io/
+    date: 2025-04-25
+
   - title: "Stop Debating in Code Reviews. Start Enforcing with Lint Rules."
     subtitle: How to enforce architecture and best practices as unit tests with Konsist
     url: https://proandroiddev.com/stop-debating-in-code-reviews-start-enforcing-with-lint-rules-6632c907ea94
