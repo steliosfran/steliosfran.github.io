@@ -7,16 +7,8 @@ image:
   feature: featured.jpg
 ---
 
-Stelios Frantzeskakis is a Staff Engineer at [Perry Street Software](https://www.perrystreet.com/){:target="_blank" rel="noopener"}, publisher of [SCRUFF](https://www.scruff.com/){:target="_blank" rel="noopener"} and [Jack’d](https://www.jackd.com/){:target="_blank" rel="noopener"}, serving a community of more than 30 million members worldwide. He has been professionally developing mobile apps for more than 10 years.
+Stelios Frantzeskakis is a Staff Engineer at [Perry Street Software](https://www.perrystreet.com/){:target="_blank" rel="noopener"}, publisher of [SCRUFF](https://www.scruff.com/){:target="_blank" rel="noopener"} and [Jack’d](https://www.jackd.com/){:target="_blank" rel="noopener"}, serving a community of over 40 million members worldwide.
 <br/><br/>
-His passions and expertise include, but are not limited to, the following areas:
-
-- Test-Driven Development
-- Behavior-Driven Development
-- Domain-Driven Design
-- Clean Architecture
-- MVVM & MVI architecture
-- Extreme Programming
-- Functional programming
-- Pair programming
-- CI/CD
+He has been leading and developing mobile apps for more than 10 years, with a strong focus on architecture and testability across platforms. He's passionate about Test-Driven Development, Behavior-Driven Development, Extreme Programming, Domain-Driven Design, and Clean Architecture.
+<br/><br/>
+He enjoys speaking at technical conferences and writing about architecture, testing, and developer experience.
